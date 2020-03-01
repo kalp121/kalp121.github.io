@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Kalp
+title: Kalp Patel
 description: Software Deveopler and Grad Student at Arizona State University
 keywords: ai,machine learning, software developer,computer science ,github,jekyll
 #baseurl:
@@ -31,8 +31,8 @@ author:  # change following line to your infomation.
   desc: Software Deveopler and Computer Science Grad student at Arizona State University
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#  name: jalpc
 
 # analytics
 ## google analytics
