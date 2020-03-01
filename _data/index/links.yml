@@ -1,17 +1,7 @@
 # links section data
-- last_name: LinkedIn
-  first_name:
-  desc: kalp121
-  website: https://www.linkedin.com/in/kalp121/
 
-- last_name: Facebook
-  first_name:
-  desc: kalp121
-  website: https://www.facebook.com/kalp121/
-  email:
-
-- last_name: GitHub
-  first_name:
-  desc: kalp121
-  website: https://github.com/kalp121
-  email:
+- last_name: Kalp
+  first_name: Patel
+  desc: Software Developer 
+  website: https://kalp121.github.io/
+  email: knpatel7@asu.edu
