@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
+- last_name: LinkedIn
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: kalp121
+  website: https://www.linkedin.com/in/kalp121/
+  email:
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Facebook
+  first_name:
+  desc: kalp121
+  website: https://www.facebook.com/kalp121/
+  email:
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: GitHub
+  first_name:
+  desc: kalp121
+  website: https://github.com/kalp121
+  email:
