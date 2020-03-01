@@ -25,7 +25,7 @@
   icon: fa-plus-square
   present: true
   
-  - name:
+- name:
     detail: Thoughtmate Systems 
    desc:
     detail: >
@@ -40,7 +40,7 @@
   icon: fa-plus-square
   present: false
   
-   - name:
+- name:
     detail: Softvan LTD
   desc:
     detail: >
@@ -53,7 +53,7 @@
   icon: fa-plus-square
   present: false
 
- - name:
+- name:
     detail: Gujarat Technological University
   desc:
     detail: GPA: 3.7    Courses Taken: Data Structures, Algorithm Design and Analysis, Big Data, Data Mining, Object Oriented programming with Java and C++, Database Management Systems, Operating Systems, Computer Networks, Compiler Design, Web Technology ,Python Programming.
