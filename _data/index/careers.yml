@@ -26,7 +26,7 @@
   
 - name:
     detail: Thoughtmate Systems 
-   desc:
+  desc:
     detail: >
     Improved working product capabilities by adding voice driven automated system in native Gujarati language.
     Developed a server based android application for the remote collection of training audio data of native language.
