@@ -6,7 +6,6 @@
     detail: >
     Software development of real-time Digital Signal processing on remote microprocessors in a sensor network for detecting automatic gunshot in wilderness area.
     Development of Web application for predicting events occurring in an audio ﬁle and creating visuals for the audio analysis. 
-    i18n: company_a_desc
   date:
     detail: Nov. 2019 - Present
   job:
@@ -17,7 +16,7 @@
 - name:
     detail: Arizona State University
   desc:
-    detail: GPA 4.0          Artificial Intelligence, Data Mining, Mobile computing, Statistical Machine Learning, Data processing at Scale, Foundations of Algorithms 
+    detail: GPA 4.0          Courses Taken- Artificial Intelligence, Data Mining, Mobile computing, Statistical Machine Learning, Data processing at Scale, Foundations of Algorithms 
   date:
     detail: Aug 2019 - May 2021 (Expected)
   job:
@@ -56,7 +55,7 @@
 - name:
     detail: Gujarat Technological University
   desc:
-    detail: GPA: 3.7    Courses Taken: Data Structures, Algorithm Design and Analysis, Big Data, Data Mining, Object Oriented programming with Java and C++, Database Management Systems, Operating Systems, Computer Networks, Compiler Design, Web Technology ,Python Programming.
+    detail: GPA 3.7    Courses Taken- Data Structures, Algorithm Design and Analysis, Big Data, Data Mining, Object Oriented programming with Java and C++, Database Management Systems, Operating Systems, Computer Networks, Compiler Design, Web Technology ,Python Programming.
   date:
     detail: July 2015 - Apr 2019
   job:
