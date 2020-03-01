@@ -2,7 +2,6 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: Acoustic Ecology Lab, ASU
-    i18n: company_a
   desc:
     detail: >
     Software development of real-time Digital Signal processing on remote microprocessors in a sensor network for detecting automatic gunshot in wilderness area.
@@ -10,77 +9,58 @@
     i18n: company_a_desc
   date:
     detail: Nov. 2019 - Present
-    i18n: company_a_date
   job:
     detail: Software Developer
-    i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
     detail: Arizona State University
-    i18n: company_b
   desc:
     detail: GPA 4.0          Artificial Intelligence, Data Mining, Mobile computing, Statistical Machine Learning, Data processing at Scale, Foundations of Algorithms 
-    i18n: company_b_desc
   date:
     detail: Aug 2019 - May 2021 (Expected)
-    i18n: company_b_date
   job:
     detail: Master of Science in Computer Science 
-    i18n: company_b_job
   icon: fa-plus-square
   present: true
   
   - name:
     detail: Thoughtmate Systems 
-    i18n: company_a
-  desc:
+   desc:
     detail: >
     Improved working product capabilities by adding voice driven automated system in native Gujarati language.
     Developed a server based android application for the remote collection of training audio data of native language.
     Built a Convolutional Neural Network to predict words spoken in an audio.
 
-    i18n: company_a_desc
   date:
     detail: Apr 2018 - Aug 2018
-    i18n: company_a_date
   job:
     detail: Machine Learning Intern
-    i18n: company_a_job
   icon: fa-plus-square
   present: false
   
    - name:
     detail: Softvan LTD
-    i18n: company_a
   desc:
     detail: >
     Created an efﬁcient client-server web application using Hibernate Framework for centralizing the management of nearby bloodbank Inventories inreal-time.
     Developed web service that provides closest blood bank location having enough blood in their inventory of speciﬁed blood group and real-time Inventory-update function for the blood bank owners.
-
-    i18n: company_a_desc
   date:
     detail: Apr 2017 - June 2017
-    i18n: company_a_date
   job:
     detail: Web Development Intern
-    i18n: company_a_job
   icon: fa-plus-square
   present: false
 
  - name:
     detail: Gujarat Technological University
-    i18n: company_a
   desc:
     detail: GPA: 3.7    Courses Taken: Data Structures, Algorithm Design and Analysis, Big Data, Data Mining, Object Oriented programming with Java and C++, Database Management Systems, Operating Systems, Computer Networks, Compiler Design, Web Technology ,Python Programming.
-    i18n: company_a_desc
   date:
     detail: July 2015 - Apr 2019
-    i18n: company_a_date
   job:
     detail: Bachelor of Eng. in Computer Engineering
-    i18n: company_a_job
   icon: fa-plus-square
   present: false
 
