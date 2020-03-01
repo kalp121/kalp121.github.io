@@ -12,7 +12,6 @@
   job:
     detail: Software Developer
   icon: fa-plus-square
-  present: true
 
 - name:
     detail: Arizona State University
@@ -24,7 +23,6 @@
   job:
     detail: Master of Science in Computer Science 
   icon: fa-plus-square
-  present: true
   
 - name:
     detail: Thoughtmate Systems 
@@ -39,7 +37,6 @@
   job:
     detail: Machine Learning Intern
   icon: fa-plus-square
-  present: false
   
 - name:
     detail: Softvan LTD
@@ -54,7 +51,6 @@
   job:
     detail: Web Development Intern
   icon: fa-plus-square
-  present: false
 
 - name:
     detail: Gujarat Technological University
@@ -67,4 +63,3 @@
   job:
     detail: Bachelor of Eng. in Computer Engineering
   icon: fa-plus-square
-  present: false
