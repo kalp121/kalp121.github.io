@@ -5,7 +5,7 @@
   #i18n: jalpc
   gh_user: kalp121
   repo: automated-waiter-bot
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/p4.jpg
   desc: >
       Created an automated waiter bot planning environment where the waiter bot can complete
       various tasks like picking up food from the kitchen, serving food at the table and collecting empty dishes parallel 
@@ -15,7 +15,7 @@
   #i18n: cpython
   gh_user: kalp121
   repo: gesture-recognition-aws
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/p3.jpg
   desc: >
       Developed an online application service using AWS to recognize a gesture from the video with hand signs.
       Developed a server based android application for efﬁciently and remotely collecting video data of gestures for the
@@ -25,7 +25,7 @@
   #i18n: google
   gh_user: kalp121
   repo: context-aware-bot
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/p5.jpg
   desc: >
       Implemented voice driven and image driven command functionality for an iRobot Roomba (House cleaning robot) 
       with help of voice and image recognition.
@@ -34,7 +34,7 @@
   #i18n: google
   gh_user: kalp121
   repo: cgm-meal-detector
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/p1.jpg
   desc: >
     Used for Insulin Pump attached to a diabetic person to determine when to eject an insulin and what amount using CGM sensors.
     
@@ -42,7 +42,7 @@
   #i18n: google
   gh_user: kalp121
   repo: Path-finder-bot
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/p2.jpg
   desc: >
       Implemented Astar, Ucs, Gbfs, Bfs algorithm for a Path-ﬁnder robot in an environment with obstacles using Robot operating System. 
       Implemented Plan-ﬁnder robot which ﬁnds a plan for an environment with full of books and bins which collects and puts each book into
