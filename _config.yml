@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv: https://drive.google.com/open?id=1cR-D5Nw6vMu7-rQduk6dCPpR8ln_HmsX  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
+    - name: icon-python
     - name: fa-linux
   skill_icon2:
     - name: fa-linux
-    - name: icon-apache
+    - name: icon-python
   desc: Software Deveopler | CS Grad Student | AI Enthusiast | Gamer 
 
 # comment
