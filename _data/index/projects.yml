@@ -1,22 +1,53 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+- name: Automated Waiter Bot Planning
+  #i18n: jalpc
+  gh_user: kalp121
+  repo: automated-waiter-bot
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: >
+      Created an automated waiter bot planning environment where the waiter bot can complete
+      various tasks like picking up food from the kitchen, serving food at the table and collecting empty dishes parallel 
+      using Robot Operating System.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: Gesture Recognition using AWS
+  #i18n: cpython
+  gh_user: kalp121
+  repo: gesture-recognition-aws
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: >
+      Developed an online application service using AWS to recognize a gesture from the video with hand signs.
+      Developed a server based android application for efﬁciently and remotely collecting video data of gestures for the
+      training purpose. 
 
-- name: Google
-  i18n: google
-  url: https://google.com
+- name: Context Aware iRobot(Roomba)
+  #i18n: google
+  gh_user: kalp121
+  repo: context-aware-bot
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: >
+      Implemented voice driven and image driven command functionality for an iRobot Roomba (House cleaning robot) 
+      with help of voice and image recognition.
+    
+- name: Meal Detector using CGM series
+  #i18n: google
+  gh_user: kalp121
+  repo: cgm-meal-detector
+  img: /static/assets/img/landing/google.png
+  desc: >
+    Used for Insulin Pump attached to a diabetic person to determine when to eject an insulin and what amount using CGM sensors.
+    
+- name: Path/Plan Finder Bot
+  #i18n: google
+  gh_user: kalp121
+  repo: Path-finder-bot
+  img: /static/assets/img/landing/google.png
+  desc: >
+      Implemented Astar, Ucs, Gbfs, Bfs algorithm for a Path-ﬁnder robot in an environment with obstacles using Robot operating System. 
+      Implemented Plan-ﬁnder robot which ﬁnds a plan for an environment with full of books and bins which collects and puts each book into
+      their corresponding bins. 
+    
+   
+      
+
