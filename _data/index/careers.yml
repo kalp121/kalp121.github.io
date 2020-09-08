@@ -4,22 +4,25 @@
 - name:
     detail: Intel
   desc:
-    detail: 
+    detail:  Large Scale data analysis for automated process control in high volume manufacturing. 
   date:
     detail: Sep 2020 - Present
   job:
     detail: Software Engineering Intern
-  icon: fa-plus-square
+  icon: fa-briefcase
   
 - name:
     detail: Apollo Education Group
   desc:
-    detail: University of Phoenix
+    detail: >
+        Back-end development of micro-services for the new my-Phoenix student portal.
+        Integration of the micro-services with the front-end application(React and Redux).
+        Development of Automated testing scripts for the University Student Portal using TestCafe and Postman.
   date:
     detail: May 2020 - Aug 2020
   job:
     detail: Software Engineering Intern
-  icon: fa-plus-square
+  icon: fa-briefcase
   
 - name:
     detail: Acoustic Ecology Lab, ASU
@@ -32,8 +35,8 @@
     detail: Nov. 2019 - May 2020
   job:
     detail: Software Developer
-  icon: fa-plus-square
-
+  icon: fa-briefcase
+  
 - name:
     detail: Arizona State University
   desc:
@@ -58,7 +61,7 @@
     detail: Apr 2018 - Aug 2018
   job:
     detail: Machine Learning Intern
-  icon: fa-plus-square
+  icon: fa-briefcase
   
 - name:
     detail: Softvan LTD
@@ -72,7 +75,7 @@
     detail: Apr 2017 - June 2017
   job:
     detail: Web Development Intern
-  icon: fa-plus-square
+  icon: fa-briefcase
 
 - name:
     detail: Gujarat Technological University
