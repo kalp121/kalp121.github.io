@@ -4,7 +4,12 @@
 - name:
     detail: Intel
   desc:
-    detail:  Large Scale data analysis for automated process control in high volume manufacturing. 
+    detail: >  
+        Developed internal large scale data analysis tools for automated process control in high volume manufacturing using SQL
+        pathfinder, Power BI, and Flask.
+        Improved user experience and interaction by developing a web application for tracking quality issues.
+        Increased web application’s reliability and availability by hosting MySQL database to DBaaS and Web‑App to Cloud Foundry
+        platform.
   date:
     detail: Sep 2020 - Present
   job:
@@ -15,9 +20,9 @@
     detail: Apollo Education Group
   desc:
     detail: >
-        Back-end development of micro-services for the new my-Phoenix student portal.
-        Integration of the micro-services with the front-end application(React and Redux).
-        Development of Automated testing scripts for the University Student Portal using TestCafe and Postman.
+        Developed micro‑services using SpringBoot and frontend components using React/Redux for the MyPhoenix student portal.
+        Implemented automated smoke test scripts for micro‑services using Postman and for front‑end using TestCafe.
+        Created CMS components using Adobe Experience Manager (AEM).
   date:
     detail: May 2020 - Aug 2020
   job:
@@ -28,9 +33,11 @@
     detail: Acoustic Ecology Lab, ASU
   desc:
     detail: >
-        Software development of real-time Digital Signal processing on remote microprocessors in a sensor network for detecting automatic
-        gunshot in wilderness area.
-        Development of Web application for predicting events occurring in an audio ﬁle and creating visuals for the audio analysis. 
+        Developed digital signal processing tool on both raspberry pi and remote microprocessors (audio recorder) to detect the gunshot
+        in the wilderness areas.
+        Implemented a web application using flask and MYSQL database for event detection in an audio file. Used AWS EC2 for hosting
+        and CNN for event detection. 
+        Created tool for generating audio data visuals (MFCC and spectrograms) on the web application.
   date:
     detail: Nov. 2019 - May 2020
   job:
@@ -42,7 +49,7 @@
   desc:
     detail: >
         GPA 4.0 | Courses Taken :- Artificial Intelligence, Data Mining, Mobile computing, Statistical Machine Learning, Natural Language Processing
-        Data processing at Scale, Foundations of Algorithms 
+        Data processing at Scale, Foundations of Algorithms
   date:
     detail: Aug 2019 - May 2021 (Expected)
   job:
@@ -53,9 +60,10 @@
     detail: Thoughtmate Systems 
   desc:
     detail: >
-        Improved working product capabilities by adding voice driven automated system in native Gujarati language.
-        Developed a server based android application for the remote collection of training audio data of native language.
-        Built a Convolutional Neural Network to predict words spoken in an audio.
+        Implemented a voice detection system in Gujarati language using CNN and audio processing tools (librosa, MatLab) to improve
+        local customer engagement.
+        Improved the performance of the voice detection system by developing an android application for collecting audio samples.
+        Automated the pre‑processing of audio samples collected from the android application and merged it with MySQL repository.
 
   date:
     detail: Apr 2018 - Aug 2018
@@ -67,10 +75,9 @@
     detail: Softvan LTD
   desc:
     detail: >
-        Created an efﬁcient client-server web application using Hibernate Framework for centralizing the management of nearby
-        bloodbank Inventories inreal-time.
-        Developed web service that provides closest blood bank location having enough blood in their inventory of 
-        speciﬁed blood group and real-time Inventory-update function for the blood bank owners.
+        Created an efficient web application using Spring and Hibernate for centralizing the management of nearby blood bank
+        inventories.
+        Implemented the real‑time inventory update functionality for the blood bank owners.
   date:
     detail: Apr 2017 - June 2017
   job:
