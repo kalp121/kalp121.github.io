@@ -1,6 +1,17 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
+
+- name:
+    detail: Microchip Technology
+  desc:
+    detail: >  
+  date:
+    detail: Jube 2021 - Present
+  job:
+    detail: Software Engineer 2
+  icon: fa-briefcase
+  
 - name:
     detail: Intel
   desc:
@@ -11,7 +22,7 @@
         Increased web application’s reliability and availability by hosting MySQL database to DBaaS and Web‑App to Cloud Foundry
         platform.
   date:
-    detail: Sep 2020 - Present
+    detail: Sep 2020 - May 2021
   job:
     detail: Software Engineering Intern
   icon: fa-briefcase
